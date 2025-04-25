@@ -1,0 +1,7 @@
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\bin\Debug\MinFinder.exe.config
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\bin\Debug\MinFinder.exe
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\bin\Debug\MinFinder.pdb
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\obj\Debug\MinFinder.csproj.AssemblyReference.cache
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\obj\Debug\MinFinder.csproj.CoreCompileInputs.cache
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\obj\Debug\MinFinder.exe
+D:\study\university3\paralelni\2\c#\MinFinder\MinFinder\obj\Debug\MinFinder.pdb
